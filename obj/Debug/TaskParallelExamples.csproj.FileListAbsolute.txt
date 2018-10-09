@@ -1,0 +1,7 @@
+F:\BIZRUNTIME\Practice\TaskParallelExample\TaskParallelExamples\TaskParallelExamples\bin\Debug\TaskParallelExamples.exe.config
+F:\BIZRUNTIME\Practice\TaskParallelExample\TaskParallelExamples\TaskParallelExamples\bin\Debug\TaskParallelExamples.exe
+F:\BIZRUNTIME\Practice\TaskParallelExample\TaskParallelExamples\TaskParallelExamples\bin\Debug\TaskParallelExamples.pdb
+F:\BIZRUNTIME\Practice\TaskParallelExample\TaskParallelExamples\TaskParallelExamples\obj\Debug\TaskParallelExamples.csprojAssemblyReference.cache
+F:\BIZRUNTIME\Practice\TaskParallelExample\TaskParallelExamples\TaskParallelExamples\obj\Debug\TaskParallelExamples.csproj.CoreCompileInputs.cache
+F:\BIZRUNTIME\Practice\TaskParallelExample\TaskParallelExamples\TaskParallelExamples\obj\Debug\TaskParallelExamples.exe
+F:\BIZRUNTIME\Practice\TaskParallelExample\TaskParallelExamples\TaskParallelExamples\obj\Debug\TaskParallelExamples.pdb
